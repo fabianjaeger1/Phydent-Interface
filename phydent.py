@@ -12,4 +12,6 @@ print(file_path)
 
 def open_opus():
     subprocess.Popen('{}'.format(file_path))
-    print("test")
+    print("Opus succesfully opened")
+
+open_opus()
