@@ -1,8 +1,8 @@
 from numpy import *
 import subprocess
 import pandas as pd
-import tkinter as tk
-from tkinter import filedialog
+# import tkinter as tk
+# from tkinter import filedialog
 
 root = tk.Tk()
 root.withdraw()
